@@ -1,0 +1,17 @@
+PERSONOPPLYSNINGER
+Vi lagrer alle nødvendige personopplysninger som er nødvendige for tjenesten og abonnementsproduktene vi tilbyr.
+
+FORMÅL
+Personopplysningene lagres utelukkende for å administrere kundeforholdet som kunden etablerer gjennom å registrere sitt produkt. Dette er separat registrering som gjøres etter registrering av en bruker.
+
+TILGANG TIL OPPLYSNINGER
+Det er kun utviklere og ansatte hos AutoGear AS som som har tilgang til personopplysninger. Disse brukes kun til det som er nødvendig for utvikling, drift og vedlikehold av tjenesten. Opplysningene utleveres ikke til tredjeparter, med unntak av underleverandører som bistår oss i forbindelse med levering av tjenestene.
+
+COOKIES
+Cookies er informasjonskapsler som lagres på datamaskiner når man besøker ulike nettsteder. AutoGear.no benytter cookies for Google analyser og annonser. Slike cookies innhenter blant annet informasjon om nettleser, oppløsning, operativsystem hos brukerne, samt informasjon om hvorvidt brukeren er pålogget eller ikke. Du kan endre innstillingene på din datamaskin og blokkere for bruk av cookies.
+
+INNSYN
+Alle brukere har rett på innsyn i opplysninger som er lagret hos oss, og du kan kreve at disse redigeres eller slettes.
+
+KONTAKT AUTOGEAR AS
+Klikk på kontakt oss i toppmenyen for å kontakte oss angående din lagrede brukerinformasjon

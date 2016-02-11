@@ -1,0 +1,17 @@
+
+Password must be at least 6 characters and contain one letter and one number<br>
+
+
+
+Please enter a valid email-address<br> 
+Email-address does not exist in our system. Please check the email-address you entered
+
+
+
+Please enter first name<br>
+Please enter last name
+
+
+
+Just one more step! 
+Check your email and click on the link to activate

@@ -1,0 +1,130 @@
+Remove left menu
+template name in the bottom
+
+
+Sign in:
+Remember me - remove
+Remove bookmarks
+-Put buttons inside the form
+
+-----------
+
+Sign up
+Terms: Modal window
+
+---------------------------------------------
+
+Set new password:
+Password (not set new password)
+
+Log this event
+Send email "password is reset"
+User log timestamp + "password reset"
+
+--------------------------------------------
+
+Welcome 
+
+Workhours, move day/time to below actual section
+
+
+Vehicle name is not subscription name
+- Subscription display name (Set a subscription name) mandatory
+Example: Vehicle+name
+
+Profile mandatory
+Vehicle (optional)
+Trip settings (optional)
+
+Note. 
+Invalid subscription 
+valid subsc
+single with geniuien info
+
+--------------------------------------------
+
+Invoice address
+Country
+
+------------------------------
+
+
+Vehicle
+vehicle id
+
+Subscription management
+
+General menu: Add new subscription
+
+-----------------------------------------
+
+Tripinbox: 
+View trips by vehicle 
+View trips by driver
+View trips by dept
+
+Multiedit: 
+
+
+-------------------------
+
+Rules:
+Subscription is missing in the table
+
+Make Note-fields below each control 
+
+
+---------------------------------
+
+Done: Internal self review
+Claimed: Review 
+
+---------------------------------
+
+Ag admin
+Add system settings
+
+
+
+subscritpion 
+add subscr
+basic tab for mandatory info
+subscr add stetings such as xledger
+assign vehicles
+
+account
+acc settings
+reiceive email if we dont... 
+
+account management
+
+-----
+
+Rates
+Discount company based, not id-based. make list shorter.
+
+
+--------
+Manage account
+Account settings
+country
+acitivty mangement / user log
+
+Account level
+departments
+rules
+
+
+
+------------
+Reports
+Account manager
+- fleet
+- rate
+- subsc
+- toll
+- user management
+- 
+
+
+

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>AG TRIP Template</title>
+<!-- TemplateEndEditable -->
+<!-- Bootstrap -->
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link href="../css/bootstrap-3.3.5.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+    <!-- Brand and toggle get grouped for better mobile display -->
+  
+    
+<!-- Collect the nav links, forms, and other content for toggling -->
+      
+  <!-- TemplateBeginEditable name="Trip inbox Main" -->
+<div class="container" align="center">  
+<div class="row" title="email-form">
+    <div class="page-header">
+      <h1>Sign in</h1>
+    </div>
+   
+   
+          <!--modal window start-->
+    
+ <!-- Google sign in -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+Sign in with Google</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">sign in with google instructions</h4>
+      </div>
+      <div class="modal-body">
+        text about google oauth here
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Facebook sign in -->
+<button type="button" class="btn btn-success" data-toggle="modal" data-target="#myModal">
+Sign in with Facebook</button>
+
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">sign in with fb instructions</h4>
+      </div>
+      <div class="modal-body">
+     text about fb oauth here
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--modal window end-->    <br>
+Or with email
+    
+   
+   
+    
+<div class="row" title="email-form">
+  <div class="col-sm-4" align="right">Email*</div>
+  <div class="col-sm-4"><input type="email" placeholder="Email"></div>
+  <div class="col-sm-4"></div>
+</div>
+
+<div class="row" title="form-password">
+  <div class="col-sm-4" align="right">Password*</div>
+  <div class="col-sm-4"><input type="password" placeholder="Password"></div>
+  <div class="col-sm-4"></div>
+</div>
+
+  <div class="row" title="form-remember me">
+            <label>
+              <input type="checkbox">
+              Remember me </label>
+   </div>
+  
+  <div class="row" title="form-signin">
+
+         <a href="welcome.html" class="btn btn-default">First time / Welcome</a> 
+          <a href="tripinbox.html" class="btn btn-default">Customer login</a> 
+                      <a href="agadmin.html" class="btn btn-default">Admin login</a>
+
+   </div>
+ 
+ 
+ <div class="row" title="form-account-password">
+<a href="../signup.html">Create account</a> | <a href="../password.html">Forgot password</a></p>
+ </div>
+ </div> </div>
+  <!-- TemplateEndEditable -->
+  
+ <div class="modal-bottom">
+  <p>
+     <select>
+      <option selected>Norwegian</option>
+      <option>English</option>
+      <option>Swedish</option>
+</select>
+    &nbsp;<small>Template name: Unregistered</small></p>
+
+<!-- TemplateBeginEditable name="FOOTER" -->
+  
+    <!-- Button trigger modal -->
+ 
+  <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#design"> Design notes</button>
+    <!-- Modal -->
+    <div class="modal fade" id="design" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Design notes</h4>
+          </div>
+          <div class="modal-body"> Design notes here </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END modal -->
+    <!-- Button trigger modal -->
+    <button type="button" class="btn btn-success btn-xs" data-toggle="modal" data-target="#tech">Tech notes</button>
+    <!-- Modal -->
+    <div class="modal fade" id="tech" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Tech notes</h4>
+          </div>
+          <div class="modal-body"> Tech notes here </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- END modal -->
+    <!-- MODAL VALIDATION -->
+    <button type="button" class="btn btn-info btn-xs" data-toggle="modal" data-target="#validation"> Validation notes</button>
+    <!-- Modal -->
+<div class="modal fade" id="validation" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Validation notes</h4>
+          </div>
+          <div class="modal-body"> 
+          
+          <div class="alert alert-success" role="alert"> An email has been sent with instructions! </div>
+
+  <div class="alert alert-danger" role="alert"> 
+  Please enter a valid email-address<br> 
+      Email-address does not exist in our system. Please check the email-address you entered<br>
+      </div>
+          
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+  </div>
+<!-- END modal --><!-- TemplateEndEditable -->
+
+  </div>
+
+
+  
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery-1.11.3.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.js"></script>
+</body>
+</html>
